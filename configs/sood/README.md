@@ -79,7 +79,7 @@ DOTA1.5
 
 |         Backbone         | Setting | mAP50 | Mem (GB) |                             Config                              |
 | :----------------------: | :-----: | :---: | :------: | :-------------------------------------------------------------: |
-| ResNet50 (1024,1024,200) |   10%   |       |   8.45   | [config](./sood_fcos_r50_fpn_2xb3-180000k_semi-0.1-dotav1.5.py) |
+| ResNet50 (1024,1024,200) |   10%   | 47.93 |   8.45   | [config](./sood_fcos_r50_fpn_2xb3-180000k_semi-0.1-dotav1.5.py) |
 | ResNet50 (1024,1024,200) |   20%   |       |          | [config](./sood_fcos_r50_fpn_2xb3-180000k_semi-0.2-dotav1.5.py) |
 | ResNet50 (1024,1024,200) |   30%   |       |          | [config](./sood_fcos_r50_fpn_2xb3-180000k_semi-0.3-dotav1.5.py) |
 
